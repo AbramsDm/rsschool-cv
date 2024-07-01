@@ -3,6 +3,7 @@
 + **Phone:** +375298746954
 + **Telegram:** [@abramsss](https://t.me/abramsss)
 + **GitHub:** [AbramsDm](https://github.com/AbramsDm)
++ **E-mail:** [dimaabramchik23@gmail.com](https://mail.google.com)
 ***
 ### **A few details about myself:** 
 *I am 25 years old. My goal is to learn the world of web development and develop as a specialist, move up the career ladder and improve my skills.*
