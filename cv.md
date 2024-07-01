@@ -31,5 +31,5 @@ function multiply(a, b){
     * *Faculty of Information Technology and Robotics*
 ***
 ### **Languages:**
-* *Russian*
+* *Russian - native speaker*
 * *English - A2*
